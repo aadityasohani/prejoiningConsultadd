@@ -1,0 +1,18 @@
+Frontend: 
+the interface through which user interacts with the application is called as frontend of application.
+
+
+
+tasks of a frontend developer:
+
+update designs
+email campaigns 
+improve website performance and accessibility
+
+
+frontend technologies:
+
+html 
+css 
+js
+and many frameworks like reactjs, vuejs, angularjs.
