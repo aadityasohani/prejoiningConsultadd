@@ -1,0 +1,20 @@
+REST API:
+Representational state transfer API
+it is a standard way to develop api(s). it puts resources or entities in a bunch of uris(uniform resource identifiers). 
+
+
+it is stateless.(this means both the requestee and the responder don't have to keep track of previous request-responce or the address of each other).
+
+
+format :
+
+Request
+ operation/uri
+ header 
+ body (payload of data)
+
+
+Responce
+ status code
+ responce header 
+ body(usually formatted in json format)  
