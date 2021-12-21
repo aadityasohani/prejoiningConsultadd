@@ -1,0 +1,10 @@
+API:
+Application Programming Interface
+
+it is a connection between two programs.The purpose of API is to hide the internal details of how a system works, exposing only those parts a programmer will find useful and keeping them consistent even if the internal details later change.
+
+types:
+SOAP-Simple Object Access Protocol
+SOA-service-oriented architecture 
+REST- representational state transfer
+ROA- resource-oriented architecture
