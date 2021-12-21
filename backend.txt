@@ -1,0 +1,14 @@
+Backend:
+the part of an application which gets requests and provides responces in the form of frontend pages is called a backend. 
+server+database
+
+Backend development involves 
+database creation, integration, and management
+using backend frameworks to build server-side software 
+data validation
+
+
+technologies include:
+database technologies: postgresql, sql, mongodb, and more
+serverside languages: python, js(nodejs), java and more
+serverside frameworks: express, django, spring
