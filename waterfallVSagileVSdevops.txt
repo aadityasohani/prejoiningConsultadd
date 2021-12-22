@@ -1,0 +1,25 @@
+Waterfall model:
+the process of sdlc is performed from top to bottom.
+
+		planning
+		    |
+		    v
+		designing
+		    |
+		    v
+		  build
+		    |
+		    v
+		   test
+		    |
+		    v
+		  deploy
+		    |
+		    v
+		maintain
+
+
+Agile Model:
+the steps in sdlc are done in iterations (in cycles)
+
+tools like jira and scrum are very useful in this model.
