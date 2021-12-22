@@ -1,0 +1,47 @@
+HTTP:
+Hyper Text Transfer Protocol
+
+it is responsible for communication between web servers and clients
+
+Http is stateless
+
+
+HTTPS:
+Hyper Text Transfer Protocol Secure
+Data sent is encrypted 
+SSL/TLS
+
+
+
+
+METHODS: 
+
+
+GET:
+Retrieves data from the server
+
+POST:
+Submit data to the server
+
+PUT:
+Update data already on the server
+
+DELETE:
+Deletes data from the server
+
+Status Codes:
+
+1XX: Informational.
+Request Received/Processing.
+
+2XX: Success
+Successfully Received, understood and accepted
+
+3XX:Redirect
+Further action must be taken/ redirect.
+
+4XX: Client Error
+Request is wrong
+
+5XX:
+Server Error
