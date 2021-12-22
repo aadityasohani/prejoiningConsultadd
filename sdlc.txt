@@ -1,0 +1,25 @@
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
+
+Requirement analysis
+Planning
+Software design such as architectural design
+Software development
+Testing
+Deployment
+
+process that should be followed in sdlc:
+1. Identify the Current Problems 
+2. Plan
+3. Design
+4. Build
+5. Code Test
+6. Software Deployment and maintainance
+
+
+types of sdlc models:
+Waterfall Model
+Agile Model
+Iterative Model
+V-Shaped Model
+Big Bang Model
+Spiral Model
