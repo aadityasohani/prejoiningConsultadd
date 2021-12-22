@@ -1,0 +1,19 @@
+SOAP:
+
+SOAP stands for Simple Object Access Protocol. It is a XML-based protocol for accessing web services.
+
+SOAP is a W3C recommendation for communication between two applications.
+
+SOAP is XML based protocol. It is platform independent and language independent.
+
+
+
+Advantages: 
+
+Soap defines its own security protocol. (WS security)
+language and platform independent.
+
+
+Disadvantages:
+slow
+wsdl dependent.
