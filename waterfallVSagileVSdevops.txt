@@ -23,3 +23,9 @@ Agile Model:
 the steps in sdlc are done in iterations (in cycles)
 
 tools like jira and scrum are very useful in this model.
+
+
+Devops:
+continous build, test, deliver, and monitor takes place.
+end to end automation is the key here.
+jenkins, docker, selenium, centralized version control system(github) plays a big role here.
