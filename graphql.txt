@@ -1,0 +1,17 @@
+GraphQL:
+Designed by facebook
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+
+overcomes the problems of overfetching and underfetching.
+
+
+
+with rest api:
+you order the waiter for dinner the waiter comes up with the complete dinner plate. then you chose which dishes out of that plate you want to eat have dinner and left the other dishes.
+
+
+with graphql:
+you order for particular dishes so that their are no left overs
+
+
+to develop graphql api(s) one can use node with graphqljs and expresjs.
