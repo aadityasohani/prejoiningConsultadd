@@ -1,0 +1,15 @@
+Client:
+A computer which is capable of receiving information using a particular service over internet via the service providers (servers).
+
+Servers:
+The computer on which services are being hosted. 
+
+In simple terms the computer which serves needs/requirements/requests of requestees is known as server whereas the requestees are known as clients.
+
+
+
+When we talk about two teir architecture their is one server and multiple clients.
+
+then there is three teir architecture which have a server on which data is stored and a server on which the logical code is running.
+
+then their comes microservice architecture.(in different file)
