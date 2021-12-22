@@ -1,0 +1,28 @@
+
+Testing:
+Testing is the process of executing a program with the aim of finding errors. To make our software perform well it should be error-free. If testing is done successfully it will remove all the errors from the software. 
+
+Types of Testing:
+
+Unit Testing: 
+Testing on the smallest unit of software. It is usually done using sample inputs and expected outputs.
+
+Integration Testing:
+it is done at the time of integrating the units(components) which are already tested(unit testing).
+types of integration testing:
+	black-box testing:It is used for validation. In this we ignore internal working mechanism and focuses on what is the output.
+	white-box testing:It is used for verification. In this we focus on internal mechanism i.e.how the output is achieved
+
+
+
+Regression Testing:
+It is done at the time when a module is updated to make sure the whole component after adding that module works properly.
+
+Smoke Testing:
+This test is done to make sure that software under testing is ready or stable for further testing.
+
+Alpha testing:
+This is a type of validation testing. It is a type of acceptance testing which is done before the product is released to customers. It is done by the qa team.
+
+Beta Testing:
+The beta test is conducted at one or more customer sites by the end-user of the software. This version is released for a limited number of users for testing in a real-time environment.

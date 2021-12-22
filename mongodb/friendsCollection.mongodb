@@ -1,0 +1,86 @@
+
+
+//-----------creating new collection--------
+
+// db.createCollection("friends")
+
+
+//-----------------------------------------------
+
+//-----------inserting one element-------------
+// db.friends.insertOne({
+//   "name":"Yash",
+//   "trust": 8
+// })
+
+
+
+//--------------testing the insertion by finding the element in collection--------------------
+// db.friends.findOne({"name":"Yash"})
+
+
+
+//----------------inserting more data-------------------------insertMany
+// db.friends.insertMany([{
+//     "name":"Mayank",
+//     "trust":6
+// },{
+//     "name":"Ritik",
+//     "trust":7
+// },{
+//     "name":"Utkarsh Farkya",
+//     "trust":-1
+// }])
+
+
+// db.friends.insertOne({
+//     "name":"dev",
+//     "trust":7
+// })
+
+//--------dumping all data-----------
+// db.friends.find({})
+
+
+
+
+//------------updating data--------------
+// db.friends.updateOne({"name":"Yash"},{$set:{"trust":9}})
+
+
+// db.friends.find()
+
+
+//-----------deleting data--------------
+// db.friends.deleteOne({"name":"Utkarsh Farkya"})
+
+
+
+//----------implementing indexing----------------
+// db.friends.createIndex({"trust":1});
+
+// db.friends.find({"trust":{$gt:8}})
+
+
+
+
+//------------aggregate functions-----------------
+
+// db.friends.aggregate({
+//     $group:{
+//         _id: "$trust",
+//         total:{$sum:1}
+//     }
+// })
+
+
+
+
+
+
+
+
+
+
+
+
